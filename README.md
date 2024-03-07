@@ -38,9 +38,19 @@ The View was implemented using Snowflake.
   
 ## **Preview**
 
-* **Snowflake**
+* **Snowflake: query and bar chart of total orders per product**
 
-![Snowflake-View](./assets/img/snowflake.png)
+![Snowflake-Total-Orders](./assets/img/snowflake.png)
+
+
+* **Snowflake: query and table of total of states from which each product was sold**
+
+![Snowflake-Total-States](./assets/img/snowflake-total-states.png)
+
+
+* **Snowflake: bar chart of total of states from which each product was sold**
+
+![Snowflake-Total-States-Bar](./assets/img/snowflake-total-states-barchar.png)
 
 
 ## **Future Development**
