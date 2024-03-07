@@ -22,10 +22,10 @@ The learning of the course was the introduction to Data Engineering and the foll
 * BI (Business Intelligence Tools) such as Looker. 
 * SQL queries.
 * ETL(Extract, Transform, Load Data).
-* Aggregations.
+* Data Aggregation.
 * Documentation.
 
-Challenge: A View was created with a SQL query were tables were joined and aggregations were implemented as required.
+Challenge: A View was created with a SQL query were tables were joined and aggregate functions were implemented as required.
 
 ## **Usage**
 
